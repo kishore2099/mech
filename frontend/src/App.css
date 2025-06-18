@@ -244,7 +244,7 @@ canvas {
   
   .flex.space-x-6 {
     flex-direction: column;
-    space-x-0;
+    space-x-0: 0;
     gap: 1rem;
   }
 }
